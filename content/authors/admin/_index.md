@@ -12,7 +12,7 @@ last_name: Wu
 superuser: true
 
 # Role/position/tagline
-role:Master, Robotics, Mechanical design and Machine learning
+role: Master, Robotics, Mechanical design and Machine learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
