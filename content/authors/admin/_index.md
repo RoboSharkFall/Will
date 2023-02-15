@@ -9,7 +9,7 @@ last_name: Wu
 # Status emoji
 
 # Is this the primary user of the site?
-superuser: true
+#superuser: true
 
 # Role/position/tagline
 role: Master, Robotics, Mechanical design and Machine learning
