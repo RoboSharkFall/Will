@@ -7,14 +7,12 @@ first_name: lei
 last_name: Wu
 
 # Status emoji
-#status:
-  #icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+Master, Robotics, Mechanical design and Machine learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
