@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lei Wu
 
 # Full name (for SEO)
-first_name: Alice
+first_name: lei
 last_name: Wu
 
 # Status emoji
