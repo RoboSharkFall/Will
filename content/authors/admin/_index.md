@@ -28,7 +28,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-# Education to show in About widget
+Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
