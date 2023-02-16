@@ -30,6 +30,9 @@ interests:
 
 #Education to show in About widget
 education:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford Universityfsdf
