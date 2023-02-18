@@ -30,14 +30,14 @@ sections:
         - title: MSc in Mechanical Engineering
           company: The National University of Singapore(NUS)
           company_url: ''
-          company_logo: org-NUS
+          company_logo: org-g
           location: Singapore
           date_start: '2022-07-01'
-          date_end: 'Now'
+          date_end: ''
         - title: BSc in Mechatronics and Automation
           company: Wuhan University
           company_url: ''
-          company_logo: org-WHU
+          company_logo: org-w
           location: China
           date_start: '2017-09-01'
           date_end: '2021-06-01'
