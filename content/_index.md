@@ -30,7 +30,7 @@ sections:
         - title: MSc in Mechanical Engineering
           company: The National University of Singapore(NUS)
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-NUS
           location: Singapore
           date_start: '2022-07-01'
           date_end: 'Now'
@@ -40,14 +40,14 @@ sections:
               #* Analysing
               #* Modelling
               #* Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: BSc in Mechatronics and Automation
+          company: Wuhan University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-WHU
+          location: China
+          date_start: '2017-09-01'
+          date_end: '2021-06-01'
+          #description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
