@@ -28,12 +28,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: MSc in Mechanical Engineering
-          company: The National University of Singapore(NUS)
+          company: National University of Singapore(NUS)
           company_url: ''
           company_logo: org-g
           location: Singapore
           date_start: '2022-07-01'
           date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
         - title: BSc in Mechatronics and Automation
           company: Wuhan University
           company_url: ''
@@ -41,6 +47,12 @@ sections:
           location: China
           date_start: '2017-09-01'
           date_end: '2021-06-01'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
     design:
       columns: '2'
   - block: accomplishments
