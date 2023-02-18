@@ -15,25 +15,9 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -43,19 +27,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: MSc in Mechanical Engineering
+          company: The National University of Singapore(NUS)
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+          location: Singapore
+          date_start: '2022-07-01'
+          date_end: 'Now'
+          #description: |2-
+              #Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              #* Analysing
+              #* Modelling
+              #* Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
