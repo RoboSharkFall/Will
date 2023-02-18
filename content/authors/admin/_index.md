@@ -16,8 +16,8 @@ role: Master, Robotics, Mechanical design and Machine learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National University of Singapore(NUS)
+    url: https://www.nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -78,5 +78,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a student in the motion and mobile lab at the National University of Singapore (NUS). My research interests include robotics, control, tendon-driven mechanism and actuators. In 2021, I received my bachelor’s degree in Mechatronics and Automation Engineering from Wuhan University.
 {style="text-align: justify;"}
