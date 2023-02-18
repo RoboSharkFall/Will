@@ -15,6 +15,13 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
+  - block: about.avatar
+    id: about
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      # Override your bio text from `authors/admin/_index.md`?
+      text:
   - block: experience
     content:
       title: Education
