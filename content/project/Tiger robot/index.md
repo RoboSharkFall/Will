@@ -1,5 +1,5 @@
 ---
-title: Developed the 3-Dof head of a tiger robot based on the B1 robot.
+title: Developed the 3-DoF head of a tiger robot based on the B1 robot.
 tags:
   - Robo
 date: '2018-04-27T00:00:00Z'
