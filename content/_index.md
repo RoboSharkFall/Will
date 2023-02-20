@@ -12,6 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+      
   - block: experience
     content:
       title: Education & Experience
@@ -79,7 +80,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: '1'
   - block: portfolio
     id: projects
     content:
