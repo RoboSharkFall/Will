@@ -29,7 +29,7 @@ sections:
         - title: MSc in Mechanical Engineering
           company: National University of Singapore
           company_url: ''
-          company_logo: org-gc
+          company_logo: nus
           location: Singapore
           date_start: '2022-08-01'
           date_end: ''
