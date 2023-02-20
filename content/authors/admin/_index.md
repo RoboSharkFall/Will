@@ -20,7 +20,7 @@ organizations:
     url: https://www.nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Robotics, Mechanical design and Machine learning.
 
 # Interests to show in About widget
 #interests:
