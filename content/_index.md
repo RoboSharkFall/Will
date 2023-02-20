@@ -51,10 +51,6 @@ sections:
           date_end: '2021-06-01'
           #description: Taught electronic engineering and researched semiconductor physics.
           
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
   - block: portfolio
     id: research
     content:
@@ -76,7 +72,7 @@ sections:
           tag: Deep Learning
         - name: Other
           tag: Demo    
-     design:
+   design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
