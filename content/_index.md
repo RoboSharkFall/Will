@@ -72,10 +72,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo    
+        - name: Latest Research
+          tag: LR 
+        - name: Post Research
+          tag: PR    
   
   - block: portfolio
     id: projects
