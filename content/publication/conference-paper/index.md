@@ -5,8 +5,12 @@ title: 'Design of a 6 DOF Cable-Driven Upper Limb Exoskeleton'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Letian Ai
+  - Tianlin Zhou
   - admin
-  - Robert Ford
+  - Wei Qian
+  - Xiaohui Xiao
+  - Zhao Guo
 
 # Author notes (optional)
 # author_notes:
