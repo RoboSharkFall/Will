@@ -24,12 +24,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
+        - title:  MSc in Mechanical Engineering
           company: National University of Singapore
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-nus
           location: Singapore
-          date_start: '2021-01-01'
+          date_start: '2022-08-01'
           date_end: ''
           description: |2-
               Responsibilities include:
