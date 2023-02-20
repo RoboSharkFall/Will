@@ -108,7 +108,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Publications & Patents
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
