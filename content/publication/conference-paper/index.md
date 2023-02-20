@@ -10,7 +10,7 @@ authors:
   - admin
   - Wei Qian
   - Xiaohui Xiao
-  -  Zhao Guo
+  - Zhao Guo
 
 # Author notes (optional)
 # author_notes:
@@ -33,10 +33,10 @@ publication_types: ['1']
 publication: In *Intelligent Robotics and Applications*
 publication_short: In *ICIRA*
 
-# abstract: 
+ abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: 
+ summary: 
 
 tags: []
 
@@ -70,7 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 research:
-  - CURER
+   - CURER
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
