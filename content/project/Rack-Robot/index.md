@@ -1,5 +1,5 @@
 ---
-title: Independently developed quadruped walking robot with dual rack unit.
+title: Developed quadruped walking robot with dual rack unit.
 tags:
   - Robo
 date: '2021-04-27T00:00:00Z'
