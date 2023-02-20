@@ -12,7 +12,7 @@ last_name: Wu
 superuser: true
 
 # Role/position/tagline
-role: Master, Robotics, Mechanical design and Machine learning
+role: Master, Robotics, Mechanisms and Machine learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,7 +20,7 @@ organizations:
     url: https://www.nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Robotics, Mechanical design and Machine learning.
+bio: My research interests include Robotics, Mechanisms and Machine learning.
 
 # Interests to show in About widget
 #interests:
@@ -69,5 +69,5 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a student in the motion and mobile lab at the National University of Singapore (NUS). My research interests include robotics, control, tendon-driven mechanism and actuators. In 2021, I received my bachelor’s degree in Mechatronics and Automation Engineering from Wuhan University.
+I am currently enrolled as a Master's student at the National University of Singapore(NUS), pursuing my studies in Mechanical Engineering. My research interests include robotics, control, Mechanisms and machine learning. In 2021, I received my bachelor’s degree in Mechatronics and Automation Engineering from Wuhan University.
 {style="text-align: justify;"}
