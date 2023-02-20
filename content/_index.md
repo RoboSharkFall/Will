@@ -75,7 +75,13 @@ sections:
         - name: Latest Research
           tag: LR 
         - name: Post Research
-          tag: PR    
+          tag: PR
+   design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   
   - block: portfolio
     id: projects
