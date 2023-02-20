@@ -25,10 +25,10 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: CEO
-          company: GenCoin
+          company: National University of Singapore
           company_url: ''
           company_logo: org-gc
-          location: California
+          location: Singapore
           date_start: '2021-01-01'
           date_end: ''
           description: |2-
