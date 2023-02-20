@@ -3,7 +3,7 @@ title: Instruct the Robot’s Motion Based on Simple Language Instructions.
 summary: The ability to provide comprehensive explanations of chosen actions is a hallmark of intelligence. In this work, we try to instruct the robot with some easy order(such as pull, pick) to perform a diverse range of tasks in a large variety of environments in the physical world at the human level.  April tags localization and toward sample-efficient, generalizable, compositional, and incremental robot learning are used in this project.
 tags:
   - LR
-date: '2016-04-27T00:00:00Z'
+date: '2018-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
