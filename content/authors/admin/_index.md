@@ -69,5 +69,5 @@ email: ''
 highlight_name: true
 ---
 
-I am currently enrolled as a Master's student at the National University of Singapore(NUS), pursuing my studies in Mechanical Engineering. My research interests include robotics, control, Mechanisms and machine learning. In 2021, I received my bachelor’s degree in Mechatronics and Automation Engineering from Wuhan University.
+I am currently enrolled as a Master's student at the National University of Singapore(NUS), pursuing my studies in Mechanical Engineering. My research interests include robotics, control, mechanisms, and machine learning. In 2021, I received my bachelor’s degree in mechatronics and automation Engineering from Wuhan University(WHU).
 {style="text-align: justify;"}
