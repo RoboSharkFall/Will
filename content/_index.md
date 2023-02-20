@@ -14,7 +14,7 @@ sections:
       text:
   - block: experience
     content:
-      title: Education
+      title: Education & Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -31,6 +31,15 @@ sections:
           location: Singapore
           date_start: '2022-08-01'
           date_end: ''
+          
+        - title: Mechenical Engineer
+          company: Unitree Robotics
+          company_url: ''
+          company_logo: org-x
+          location: China
+          date_start: '2022-07-01'
+          date_end: '2021-07-01'
+          #description: Taught electronic engineering and researched semiconductor physics.
    
         - title: BSc in Mechatronics and Automation
           company: Wuhan University
