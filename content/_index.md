@@ -30,7 +30,7 @@ sections:
           company_logo: org-nus
           location: Singapore
           date_start: '2022-08-01'
-          date_end: 'Now'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
