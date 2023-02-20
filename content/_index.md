@@ -43,7 +43,7 @@ sections:
           date_end: '2021-07-01'
           #description: Taught electronic engineering and researched semiconductor physics.
           
-        - title: BSc in Mechatronics and Automation
+        - title: BSc in Mechatronics and Automation Engineering
           company: Wuhan University
           company_url: ''
           company_logo: whu
