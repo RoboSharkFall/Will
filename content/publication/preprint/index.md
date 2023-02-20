@@ -1,5 +1,5 @@
 ---
-title: "Design of Quadruped Robot with Parallel Elastic Actuator"
+title: "Design of Quadruped Robot with Parallel Elastic Actuator(pending)"
 authors:
 - admin
 - Aidi Xiao
@@ -8,7 +8,7 @@ date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,12 +34,12 @@ links:
   url: http://example.org
 url_pdf: ''
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
