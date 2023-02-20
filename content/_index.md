@@ -41,7 +41,7 @@ sections:
           date_start: '2022-07-01'
           date_end: '2021-07-01'
           #description: Taught electronic engineering and researched semiconductor physics.
-   
+          
         - title: BSc in Mechatronics and Automation
           company: Wuhan University
           company_url: ''
@@ -50,6 +50,9 @@ sections:
           date_start: '2017-09-01'
           date_end: '2021-06-01'
           #description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      columns: '2'
+
           
   - block: portfolio
     id: research
