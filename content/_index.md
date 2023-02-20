@@ -106,6 +106,7 @@ sections:
       flip_alt_rows: false
  
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
