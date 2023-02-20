@@ -37,7 +37,7 @@ sections:
         - title: Mechenical Engineer
           company: Unitree Robotics
           company_url: ''
-          company_logo: org-x
+          company_logo: unitree
           location: China
           date_start: '2022-07-01'
           date_end: '2021-07-01'
@@ -46,7 +46,7 @@ sections:
         - title: BSc in Mechatronics and Automation
           company: Wuhan University
           company_url: ''
-          company_logo: org-x
+          company_logo: whu
           location: China
           date_start: '2017-09-01'
           date_end: '2021-06-01'
