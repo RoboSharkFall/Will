@@ -1,5 +1,5 @@
 ---
-title: CURER: A Lightweight Cable-Driven Compliant Upper Limb Rehabilitation Exoskeleton Robot
+title: CURER - A Lightweight Cable-Driven Compliant Upper Limb Rehabilitation Exoskeleton Robot
 summary: Upper limb exoskeletons show promise for improving functionalities required for stroke patients. Despite recent progress, most of the current upper limb rehabilitation devices are still bulky, heavy, and less compliant to be applied. We designed a cable-driven compliant upper limb rehabilitation exoskeleton robot (CURER) with a lightweight frame and comfortable human–robot interaction. A modular series elastic actuator (SEA) was designed to provide controlled torque for each active robotic joint, and Bowden cables were applied to transfer controlled torque to distal joints...
 tags:
   - PR
