@@ -1,5 +1,5 @@
 ---
-title: CURER: A Lightweight Cable-Driven Compliant Upper Limb Rehabilitation Exoskeleton Robot
+title: CURER - A Lightweight Cable-Driven Compliant Upper Limb Rehabilitation Exoskeleton Robot
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
   - PR
