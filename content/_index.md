@@ -39,8 +39,8 @@ sections:
           company_url: ''
           company_logo: unitree
           location: China
-          date_start: '2022-07-01'
-          date_end: '2021-07-01'
+          date_start: '2021-07-01'
+          date_end: '2022-07-01'
           #description: Taught electronic engineering and researched semiconductor physics.
           
         - title: BSc in Mechatronics and Automation Engineering
